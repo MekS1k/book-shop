@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Эгоистичный ген",
+		"autor": "Ричард Докинз",
+		"weight": 480,
+		"price": 300,
+		"imgSrc": "the_selfish_gene.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Происхождение видов",
+		"autor": "Чарльз Дарвин",
+		"weight": 600,
+		"price": 250,
+		"imgSrc": "origin_of_species.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Цветы для Элджернона",
+		"autor": "Дэниел Киз",
+		"weight": 325,
+		"price": 230,
+		"imgSrc": "flour_for_elenjerona.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Игра престолов",
+		"autor": "Джордж Мартин",
+		"weight": 400,
+		"price": 320,
+		"imgSrc": "pristol_game.jpg"
+	}
+]
